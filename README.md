@@ -1,5 +1,5 @@
 # Performance 
-## Author Martin Hutchings
+## Author: Martin Hutchings
 ## Last edited 22.02.2019
 <hr>
 
